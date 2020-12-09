@@ -3,6 +3,7 @@
 ![Windows Build Status](https://github.com/Now-Dawn/pyNowDawn/workflows/Windows/badge.svg)
 ![Linux Build Status](https://github.com/Now-Dawn/pyNowDawn/workflows/Linux/badge.svg)
 ![MIT License](https://img.shields.io/github/license/Now-dawn/pyNowDawn)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FNow-Dawn%2FpyNowDawn.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FNow-Dawn%2FpyNowDawn?ref=badge_shield)
 
 ## Open Source Python library for interfacing with the NowDawn API
 
@@ -56,3 +57,7 @@ $ pip install pyNowDawn
 ## Documentation
 
 The library software API documentation is available on [Read the Docs](https://pynowdawn.readthedocs.io/en/latest/).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FNow-Dawn%2FpyNowDawn.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FNow-Dawn%2FpyNowDawn?ref=badge_large)
